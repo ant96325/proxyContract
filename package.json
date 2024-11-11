@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "node-crypto-helper": "^1.0.7",
+    "node-crypto-validator": "^1.1.2"
+  }
+}
